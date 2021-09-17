@@ -4,8 +4,10 @@
   "private": true,
   "dependencies": {
     "ansi-html": "^0.0.7",
+    "browserslist": "^4.17.0",
     "chokidar": "2.1.8",
     "fsevents": "1.2.13",
+    "glob-parent": "^6.0.1",
     "immer": "^9.0.6",
     "querystring": "0.2.0",
     "react-scripts": "^4.0.3",
