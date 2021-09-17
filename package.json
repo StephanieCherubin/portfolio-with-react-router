@@ -3,10 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "2": "^3.0.0",
     "@sideway/address": "^4.1.2",
     "acorn": "^8.5.0",
     "browserslist": "^4.17.0",
     "chokidar": "^3.5.2",
+    "fsevents": "^2.3.2",
     "glob-parent": "^6.0.1",
     "hosted-git-info": "^4.0.2",
     "is-svg": "^4.3.1",
