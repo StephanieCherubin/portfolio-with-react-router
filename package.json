@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "ansi-html": "^0.0.7",
-    "browserslist": "^4.17.0",
+    "browserslist": "^4.16.5",
     "chokidar": "2.1.8",
     "fsevents": "1.2.13",
     "glob-parent": "^5.1.2",
