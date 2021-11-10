@@ -5,14 +5,14 @@
   "dependencies": {
     "ansi-html": "^0.0.7",
     "browserslist": "^4.16.5",
-    "chokidar": "2.1.8",
-    "fsevents": "1.2.13",
-    "glob-parent": "^5.1.2",
+    "chokidar": "^3.5.2",
+    "fsevents": "^2.3.2",
+    "glob-parent": "^6.0.2",
     "immer": "^9.0.6",
-    "querystring": "0.2.0",
+    "querystring": "^0.2.1",
     "react-scripts": "^4.0.3",
     "set-value": "^4.1.0",
-    "uuid": "3.4.0"
+    "uuid": "^8.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
